@@ -8,7 +8,7 @@ As a research group, we aim to enhance health and well-being by optimizing healt
 
 The research focuses on musculoskeletal diseases, particularly osteoporosis, fracture prevention, rare musculoskeletal conditions, and osteoarthritis. It assesses surgical procedures (hip, knee, shoulder, ankle) and post-fracture care programs like Fracture Liaison Services. Additionally, it explores outcome measures to ensure they effectively capture patient benefits and changes over time.
 
-### Our Team:###
+### Our Team:
   - [Rafael Pinedo-Villanueva](https://www.ndorms.ox.ac.uk/team/rafael-pinedo-villanueva)
   - [Gianluca Fabiano](https://www.ndorms.ox.ac.uk/team/gianluca-fabiano)
   - [Bea Giglio](https://www.ndorms.ox.ac.uk/team/beata-giglio)
