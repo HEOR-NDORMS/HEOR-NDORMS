@@ -13,4 +13,4 @@ The research focuses on musculoskeletal diseases, particularly osteoporosis, fra
   - [Gianluca Fabiano](https://www.ndorms.ox.ac.uk/team/gianluca-fabiano)
   - [Bea Giglio](https://www.ndorms.ox.ac.uk/team/beata-giglio)
   - [Njoki Njuki](https://www.ndorms.ox.ac.uk/team/njoki-njuki)
-  - Ian Koblbauer
+  - Ian Koblabauer
