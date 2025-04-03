@@ -2,7 +2,7 @@
 
 ### [Health Economics and Outcomes Research (HEOR)](https://www.ndorms.ox.ac.uk/research/research-groups/pinedo-villanueva-group-health-economics-outcomes-research)
 
-We are part of NDORMS, University of Oxford
+We are part of the [Nuffield Department of Orthopaedics, Rheumatology, and Musculoskeletal Sciences (NDORMS)](https://www.ndorms.ox.ac.uk/) at the University of Oxford.
 
 As a research group, we aim to enhance health and well-being by optimizing health and social care resources. Our research uses real-world data and mathematical models to evaluate the costs and effects of various medical interventions over time, often across a patient’s lifetime. The findings support authorities' decision-making on healthcare funding and provide patients with better information.  
 
